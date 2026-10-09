@@ -39,5 +39,4 @@ The goal is to understand passenger traffic trends and seasonality, and to asses
 
 ## Notes
 
-- The `time` column is kept in the DataFrame after setting `Month` as the index, as required by the lab's autograder.
-- `.ipynb_checkpoints/` is excluded through `.gitignore`.
+- The `time` column is kept in the DataFrame after setting `Month` as the index
